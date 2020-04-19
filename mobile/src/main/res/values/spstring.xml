@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email"> com.example.healthanalytics.email</string>
+    <string name="password">com.example.healthanalytics.password</string>
+    <string name="user"> com.example.healthanalytics.user</string>
+    <string name="minimum">com.example.healthanalytics.minimum</string>
+    <string name="average"> com.example.healthanalytics.average</string>
+    <string name="maximum">com.example.healthanalytics.maximum</string>
+    <string name="age">com.example.healthanalytics.age</string>
+</resources>

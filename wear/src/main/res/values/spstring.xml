@@ -1,0 +1,5 @@
+<resources>
+    <string name="minimum">com.example.healthanalytics.minimum</string>
+    <string name="average">com.example.healthanalytics.average</string>
+    <string name="maximum">com.example.healthanalytics.maximum</string>
+</resources>

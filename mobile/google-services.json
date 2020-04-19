@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244566006702",
+    "firebase_url": "https://healthanalytics-f2c8a.firebaseio.com",
+    "project_id": "healthanalytics-f2c8a",
+    "storage_bucket": "healthanalytics-f2c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244566006702:android:c2b344e61b22497083c63f",
+        "android_client_info": {
+          "package_name": "com.example.healthanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244566006702-5bbqp1qd3krr4r02igv4jnu9fnse3f3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthanalytics",
+            "certificate_hash": "acb1c5186b46fd5e4175c2acba091d9b27e9e939"
+          }
+        },
+        {
+          "client_id": "244566006702-vvdkvbank9ducjgb15e209htlnuv3ne8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBme7m1j8cBfPod0RgxuK5oAW5OKJywwQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244566006702-vvdkvbank9ducjgb15e209htlnuv3ne8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
